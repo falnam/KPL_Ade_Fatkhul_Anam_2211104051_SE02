@@ -1,0 +1,17 @@
+{
+  "name": "design-pattern-observer",
+  "version": "1.0.0",
+  "description": "Implementasi Observer Design Pattern dengan Node.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "observer",
+    "design-pattern",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC"
+}
