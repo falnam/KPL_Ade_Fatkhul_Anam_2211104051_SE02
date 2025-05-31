@@ -1,7 +1,7 @@
 # Refactoring Project – Modul 14 (Guided Practice)
 
-**Nama:** Dewi Atika Muthi  
-**NIM:** 221114042
+**Nama:** Ade Fatkhul Anam 
+**NIM:** 221114051
 
 ## Deskripsi Proyek
 Contoh proyek sederhana untuk menghitung luas dan keliling persegi panjang. Kode ini telah direfaktor dari versi asal yang tidak mengikuti standar coding menjadi lebih rapi dan terstruktur.
